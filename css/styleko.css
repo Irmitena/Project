@@ -18,6 +18,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.section1-span {
+    font-size: 35px;
+    color: red;
+}
 
 .header-nav {
     font-size: 20px;
@@ -37,8 +41,7 @@ body {
 }
 
 #ha:hover {
-    color: rgb(94, 196, 255);
-     text-shadow: 1px 1px 1px black;
+    color: red;
 }
 
 #ha:active {
@@ -75,7 +78,7 @@ body {
 }
 
 .main-inp:hover{
-    border: 1px solid rgb(94, 196, 255);
+    border: 1px solid red;
 }
 
 .main-ta{
@@ -92,11 +95,11 @@ body {
 }
 
 .main-ta:hover{
-    border: 1px solid rgb(94, 196, 255);
+    border: 1px solid red;
 }
 
 .main-btn{
-    background-color: rgb(94, 196, 255);
+    background-color: red;
     border: none;
     font-size: 20px;
     color: #f8f8f8;
@@ -109,7 +112,7 @@ body {
 }
 
 .main-btn:hover{
-    background-color: rgb(0, 118, 187);
+    background-color: rgb(187, 0, 0);
 }
 
 .main-btn:active{

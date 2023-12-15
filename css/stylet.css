@@ -18,6 +18,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.section1-span {
+    font-size: 35px;
+    color: red;
+}
 
 .header-nav {
     font-size: 20px;
@@ -37,8 +41,7 @@ body {
 }
 
 #ha:hover{
-    color: rgb(94, 196, 255);
-    text-shadow: 1px 1px 1px black;
+    color: red;
 }
 
 #ha:active{
@@ -122,7 +125,6 @@ table {
     font-size: 25px;
     font-weight: bold;
     padding-bottom: 0.5em;
-    text-align: center;
 }
 
 #a2{
@@ -132,7 +134,7 @@ table {
 .btn{
     width: 95%;
     margin: 0 auto 0.5em auto;
-    background-color:rgb(94, 196, 255);
+    background-color: red;
     color: #f8f8f8;
     height: 25px;
     font-size: 17px;
@@ -141,7 +143,7 @@ table {
 }
 
 .btn:hover{
-    background-color: rgb(0, 118, 187);
+    background-color: rgb(187, 0, 0);
 }
 
 .btn:active{
